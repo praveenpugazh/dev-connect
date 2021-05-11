@@ -116,22 +116,3 @@ Make any changes you need on your main branch and merge those into your producti
 git checkout production
 git merge main
 ```
-
-Once merged you can push to heroku as above and your site will rebuild and be updated.
-
----
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-2.0.0
-
-### License
-
-This project is licensed under the MIT License
